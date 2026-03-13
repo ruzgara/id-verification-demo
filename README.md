@@ -1,6 +1,6 @@
 # ID Verification Demo
 This repository contains the code for the demo.
-The writeup can be found on my [notes site]("https://notes.ruzgara.com/Personal-Projects/Digital-ID/Digital-ID-System")
+The writeup can be found on my [notes site](https://notes.ruzgara.com/Personal-Projects/Digital-ID/Digital-ID-System)
 
 To run, install dependencies with `npm install`
 
